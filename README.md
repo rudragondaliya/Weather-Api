@@ -4,13 +4,7 @@ A simple and beautiful weather application that allows users to get real-time we
 
  🔗 Live Preview
 
-👉 [Click here to try the app live](https://yourusername.github.io/weather-app/)  
-*(Replace this link with your actual GitHub Pages or Netlify link)*
-
- 📷 Preview
-
-![App Preview](preview.png)  
-<sub>Add a screenshot named `preview.png` in the root folder for this to display</sub>
+👉 [Click here to try the app live](https://weather-api-app-drab.vercel.app/)  
 
  🚀 Features
 
